@@ -5,6 +5,6 @@ Basta inserir o valor que deseja converter, clicar no botão Converter e o resul
 
 ## 🚀 Tecnologias usadas :
 
-[HTML5]
-[CSS3]
-[JAVASCRIPT]
+- [HTML5]
+- [CSS3]
+- [JAVASCRIPT]
