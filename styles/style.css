@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.conteudo {
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+  height: 100vh;
+  color: white;
+  font-weight: bold;
+  background-image: linear-gradient(
+    to right top,
+    #d16ba5,
+    #c777b9,
+    #ba83ca,
+    #aa8fd8,
+    #9a9ae1,
+    #8aa7ec,
+    #79b3f4,
+    #69bff8,
+    #52cffe,
+    #41dfff,
+    #46eefa,
+    #5ffbf1
+  );
+}
+.campoForms {
+  margin: auto;
+}
+
+input {
+  padding: 7px;
+  border: none;
+  border-radius: 3px;
+  margin-left: 3px;
+}
+.btnConverte {
+  background: #ddd;
+  padding: 7px;
+  border-radius: 3px;
+  border: none;
+  margin-left: 5px;
+}
+.btnConverte:hover {
+  background: #b7b7b7;
+  transition: 2ms;
+  cursor: pointer;
+}
+.resultado {
+  display: block;
+  width: 24vw;
+  padding: 3px;
+  border-radius: 3px;
+  font-weight: bold;
+  background: rgba(0, 0, 0, 0.1);
+}
